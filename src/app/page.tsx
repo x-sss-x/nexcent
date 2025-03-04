@@ -45,7 +45,7 @@ export default function Home() {
         </div>
 
         <Image
-          src={"/illustration.svg"}
+          src={"/computer.svg"}
           height={407}
           width={391}
           alt="illustration"
